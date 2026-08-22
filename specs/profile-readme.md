@@ -1,6 +1,6 @@
-# <div align="center">Renan Crusco Rocha</div >
-### <div align="center">Analista de Dados @GCB  </div >
-### <div align="center"> ETL - Analytics Engineering - Engenharia de Dados</div >
+<div align="center"><h1>Renan Crusco Rocha</h1></div >
+<div align="center"><h4>Analista de Dados @GCB</h4></div >
+<div align="center"> <h3>ETL - Analytics Engineering - Engenharia de Dados</h3></div >
 
 <div align="center"> SQL | Python | Snowflake | DuckDb | S3 | Power BI
 
